@@ -1,2 +1,7 @@
-# MERN Stack Boilerplate
-Getting Started with MERN Stack (MongoDB, Express.js, React.js & Node.js)"# giphy-react" 
+Install and run the application:
+
+install Redis local and keep it running on port 6379
+
+npm or yarn install in the source directory
+
+npm run dev to start the application
